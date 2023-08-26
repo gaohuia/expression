@@ -1,7 +1,7 @@
 package main
 
 import (
-	"expression/parser"
+	"github.com/gaohuia/expression/parser"
 	"log"
 	"strings"
 )
